@@ -98,3 +98,12 @@ Visit `http://localhost:3000` to view the app.
 
 This project is licensed under the [MIT License](LICENSE).
 Let me know if you'd like to include additional sections like deployment steps or contributor guidelines!
+
+## Screenshots
+
+<img width="939" alt="Image" src="https://github.com/user-attachments/assets/7aa53227-f694-42da-9e28-a0a574304913" />
+<img width="933" alt="Image" src="https://github.com/user-attachments/assets/0d0a35c2-0802-4f3d-bbcb-62eb10977b6c" />
+<img width="949" alt="Image" src="https://github.com/user-attachments/assets/c335996e-57d0-4ea5-8c7f-b68935a5d0a4" />
+<img width="943" alt="Image" src="https://github.com/user-attachments/assets/55ebd12d-c463-401f-88a0-addbf3433c74" />
+<img width="918" alt="Image" src="https://github.com/user-attachments/assets/edd9d936-dfe7-4ada-82e2-deea4987bef6" />
+<img width="950" alt="Image" src="https://github.com/user-attachments/assets/185f454e-10e4-4f66-8111-549a87e5b7e9" />
